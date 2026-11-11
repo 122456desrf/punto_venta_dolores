@@ -50,13 +50,9 @@ Materia: Desarrollo de Aplicaciones Móviles
 
 ## PANTALLAS: 
 
-| Pantalla de Caja | Pantalla de Carrito |
+| Pantalla de Caja | Pantalla de Carrito | Pantalla de Cobros | Pantalla de Corte del Dia |
 | :---: | :---: |
-| <img src="capturas/caja.png" width="450"> | <img src="capturas/carrito_productos.png" width="450"> |
-### Pantalla de Cobros 
-<img src="capturas/cobro_producto.png" width="750"> 
-### Pantalla de Corte del Dia 
-<img src="capturas/corte_dia.png" width="750">
+| <img src="capturas/caja.png" width="180"> | <img src="capturas/carrito_productos.png" width="180"> | <img src="capturas/cobro_producto.png" width="180"> | <img src="capturas/corte_dia.png" width="180">|
 
 ## Funciones
 - Catálogo de productos con búsqueda
