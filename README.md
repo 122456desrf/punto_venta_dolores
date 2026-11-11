@@ -7,7 +7,7 @@ Materia: Desarrollo de Aplicaciones Móviles
 ## Capturas
 
 ### Instalación de dependencias 
-<img src="capturas/Instalacion-dependencias.png"> 
+<img src="capturas/Instalacion-dependencias.png" width="500"> 
 
 ### Ronda 1 - Prueba1_Roja 
 <img src="capturas/R1-Prueba1_PruebaRoja_FormatearPesos.png" width="250">
