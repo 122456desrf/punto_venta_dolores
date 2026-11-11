@@ -16,7 +16,7 @@ Materia: Desarrollo de Aplicaciones Móviles
 <img src="capturas/R1-Prueba1_PruebaVerde_FormatearPesos.png" width="750">
 
 ### Ronda 1 - Prueba2 (1.3, 1.4)
-<img src="capturas/R1-Prueba2_PruebaVerdeRojo.png" width="750">
+<img src="capturas/R1-Prueba2_VerdeRojo.png" width="750">
 
 ### Ronda 2 - El Producto 
 <img src="capturas/R2-ElProducto.png" width="750">
