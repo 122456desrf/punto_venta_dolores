@@ -5,9 +5,12 @@ App de punto de venta hecha con **Flutter** y **SQLite local** (funciona sin int
 Materia: Desarrollo de Aplicaciones Móviles
 
 ## Capturas
-Instalación de dependencias <img src="capturas/Instalacion-dependencias.jpg"> 
-Ronda 1 - Prueba1_Roja <img src="capturas/R1-Prueba1_PruebaRoja_FormatearPesos.jpg" width="250">
-Ronda 1 - Prueba1_Verde <img src="capturas/R1-Prueba1_PruebaVerde_FormatearPesos.jpg" width="250">
+Instalación de dependencias 
+<img src="capturas/Instalacion-dependencias.jpg"> 
+Ronda 1 - Prueba1_Roja 
+<img src="capturas/R1-Prueba1_PruebaRoja_FormatearPesos.jpg" width="250">
+Ronda 1 - Prueba1_Verde 
+<img src="capturas/R1-Prueba1_PruebaVerde_FormatearPesos.jpg" width="250">
 Ronda 1 - Prueba2_Roja <img src="capturas/R1-Prueba2_PruebaRoja_TextoCentavos.jpg" width="250">
 Ronda 1 - Prueba2_Verde <img src="capturas/R1-Prueba2_PruebaVerde_TextoCentavos.jpg" width="250">
 Ronda 2 - El Producto <img src="capturas/R2-ElProducto.jpg" width="250">
