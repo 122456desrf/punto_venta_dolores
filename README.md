@@ -5,42 +5,42 @@ App de punto de venta hecha con **Flutter** y **SQLite local** (funciona sin int
 Materia: Desarrollo de Aplicaciones Móviles
 
 ## Capturas
-Instalación de dependencias 
+###Instalación de dependencias 
 <img src="capturas/Instalacion-dependencias.png"> 
-Ronda 1 - Prueba1_Roja 
+###Ronda 1 - Prueba1_Roja 
 <img src="capturas/R1-Prueba1_PruebaRoja_FormatearPesos.png" width="250">
-Ronda 1 - Prueba1_Verde 
+###Ronda 1 - Prueba1_Verde 
 <img src="capturas/R1-Prueba1_PruebaVerde_FormatearPesos.png" width="250">
-Ronda 1 - Prueba2_Roja 
+###Ronda 1 - Prueba2_Roja 
 <img src="capturas/R1-Prueba2_PruebaRoja_TextoCentavos.png" width="250">
-Ronda 1 - Prueba2_Verde 
+###Ronda 1 - Prueba2_Verde 
 <img src="capturas/R1-Prueba2_PruebaVerde_TextoCentavos.png" width="250">
-Ronda 2 - El Producto 
+###Ronda 2 - El Producto 
 <img src="capturas/R2-ElProducto.png" width="250">
-Ronda 3 - 3.1 Sumar Cantidades 
+###Ronda 3 - 3.1 Sumar Cantidades 
 <img src="capturas/R3-3.1SumarCantidades.png" width="250">
-Ronda 3 - 3.2_No Vender Lo Que No Hay 
+###Ronda 3 - 3.2_No Vender Lo Que No Hay 
 <img src="capturas/R3-3.2_NoVenderLoQueNoHay.png" width="250">
-Ronda 3 - 3.3_IVA Incluido Con Enteros 
+###Ronda 3 - 3.3_IVA Incluido Con Enteros 
 <img src="capturas/R3_3.3_IVA_IncluidoConEnteros.png" width="250">
-Ronda 3 - 3.4_Cambio, Pago corto y Carrito vacio 
+###Ronda 3 - 3.4_Cambio, Pago corto y Carrito vacio 
 <img src="capturas/R3-3.4_CambioPagoCarritoVacio.png" width="250">
-Ronda 3 - 3.5_Las Clases de Venta 
+###Ronda 3 - 3.5_Las Clases de Venta 
 <img src="capturas/R3-3.5_ClasesVenta.png" width="250">
-Ronda 4 - Base de Datos Local (SQLite) 
+###Ronda 4 - Base de Datos Local (SQLite) 
 <img src="capturas/R4-BaseDatosLocal.png" width="250">
-Ronda 5 - Cobrar Transaccion- 5.1 Cobrar Descuento Inventario 
+###Ronda 5 - Cobrar Transaccion- 5.1 Cobrar Descuento Inventario 
 <img src="capturas/R5-5.1_DescuentoInventario.png" width="250">
-Ronda 5 - Cobrar Transaccion- 5.2 Demostración de la transacción y 5.3 Corte del dia 
+###Ronda 5 - Cobrar Transaccion- 5.2 Demostración de la transacción y 5.3 Corte del dia 
 <img src="capturas/R5-5.2,5.3_PruebaTransaccion_CorteDia.png" width="250">
-Ronda 6 - ViewModel y Pantalla 
+###Ronda 6 - ViewModel y Pantalla 
 <img src="capturas/R6-ViewModel.png" width="250">
 
-PANTALLAS: 
-Pantalla de Caja <img src="capturas/caja.png" width="250"> 
-Pantalla de Carrito <img src="capturas/carrito_productos.png" width="250"> 
-Pantalla de Cobros <img src="capturas/cobro_producto.png" width="250"> 
-Pantalla de Corte del Dia <img src="capturas/corte_dia.png" width="250">
+##PANTALLAS: 
+###Pantalla de Caja <img src="capturas/caja.png" width="250"> 
+###Pantalla de Carrito <img src="capturas/carrito_productos.png" width="250"> 
+###Pantalla de Cobros <img src="capturas/cobro_producto.png" width="250"> 
+###Pantalla de Corte del Dia <img src="capturas/corte_dia.png" width="250">
 
 ## Funciones
 - Catálogo de productos con búsqueda
